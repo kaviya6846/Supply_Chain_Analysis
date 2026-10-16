@@ -27,7 +27,7 @@ This project uses supply chain data to explore operational efficiency, manufactu
 
 Provides an overview of supply chain KPIs, revenue, product performance, and quality indicators.
 
-![Executive Supply Chain Dashboard](Dashboards_Screenshots/Supply%20Chain%20Analytics.png)
+![Supply Chain Analytics Dashboard](Supply_Chain_Analysis/Dashboards_Screenshots/Supply Chain Analytics.png)
 
 ### 2. Operations & Quality Performance Dashboard
 
