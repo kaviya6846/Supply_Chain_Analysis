@@ -32,7 +32,7 @@ Supply_Chain_Analysis/Dashboards_Screenshots/Operation and Quality Performance.p
 3. Risk & Margin Analysis:
       Risk & Margin Analysis examines product-level unit margins, negative-margin products, and potential supply chain risks.
 
-![Risk and Margin Dashboard](screenshots/03_Risk_Margin.png)
+Supply_Chain_Analysis/Dashboards_Screenshots/Risk and Margin Analysis.png
 
 Key Findings:
 Based on the supplied dataset of 100 product records:
