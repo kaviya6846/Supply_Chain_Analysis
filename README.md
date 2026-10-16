@@ -27,7 +27,7 @@ Supply_Chain_Analysis/Dashboards_Screenshots/Supply Chain Analytics.png
 2. Operations & Quality Dashboard:
       Operation & Quality Dashboard explores manufacturing costs, production volumes, lead times, and product defect rates to identify areas for operational improvement.
 
-![Operations and Quality Dashboard](screenshots/02_Operations_Quality.png)
+Supply_Chain_Analysis/Dashboards_Screenshots/Operation and Quality Performance.png
 
 3. Risk & Margin Analysis:
       Risk & Margin Analysis examines product-level unit margins, negative-margin products, and potential supply chain risks.
