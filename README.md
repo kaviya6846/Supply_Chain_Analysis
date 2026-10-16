@@ -22,7 +22,7 @@ Dashboard Preview
 1. Executive Supply Chain Dashboard:
       Executive Dashboard provides a high-level overview of supply chain KPIs, product performance, revenue, and quality indicators.
 
-![Executive Supply Chain Dashboard](screenshots/01_Executive_Dashboard.png)
+Supply_Chain_Analysis/Dashboards_Screenshots/Supply Chain Analytics.png
 
 2. Operations & Quality Dashboard:
       Operation & Quality Dashboard explores manufacturing costs, production volumes, lead times, and product defect rates to identify areas for operational improvement.
