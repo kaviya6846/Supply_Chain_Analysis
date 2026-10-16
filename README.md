@@ -1,11 +1,11 @@
-SUPPLY CHAIN ANALYTICS DASHBOARDS | POWERBI & SQL
-       
-       An end-to-end supply chain analytics project focused on operational performance, manufacturing costs, product quality, and unit margin analysis.
+## SUPPLY CHAIN ANALYTICS DASHBOARDS | POWERBI & SQL
 
-Project Overview:
-       This project uses supply chain data to explore operational efficiency, manufacturing performance, shipping costs, product quality, and unit margins. An interactive dashboard was developed in Microsoft Power BI, with SQL used for data analysis and business-focused investigation.The goal is to transform raw operational data into meaningful insights that can support better inventory planning, cost management, and supply chain decision-making.
+An end-to-end supply chain analytics project focused on operational performance, manufacturing costs, product quality, and unit margin analysis.
 
-Business Objectives:
+### Project Overview:
+This project uses supply chain data to explore operational efficiency, manufacturing performance, shipping costs, product quality, and unit margins. An interactive dashboard was developed in Microsoft Power BI, with SQL used for data analysis and business-focused investigation.The goal is to transform raw operational data into meaningful insights that can support better inventory planning, cost management, and supply chain decision-making.
+
+### Business Objectives:
 - Evaluate product prices and manufacturing costs.
 - Identify products with negative unit margins.
 - Analyze shipping costs, carriers, and transportation methods.
@@ -13,37 +13,45 @@ Business Objectives:
 - Investigate product quality indicators and defect rates.
 - Highlight potential operational risks and improvement opportunities.
 
-Tools & Technologies:
-1.Microsoft Power BI    - Interactive dashboards and data visualization 
+### Tools & Technologies:
+1.Microsoft Power BI    - Interactive dashboards and data visualization
+
 2.SQL                   - Data querying and analytical investigation 
+
 3.CSV                   - Source data 
 
-Dashboard Preview
-1. Executive Supply Chain Dashboard:
-      Executive Dashboard provides a high-level overview of supply chain KPIs, product performance, revenue, and quality indicators.
 
-Supply_Chain_Analysis/Dashboards_Screenshots/Supply Chain Analytics.png
+## 📊 Dashboard Preview
 
-2. Operations & Quality Dashboard:
-      Operation & Quality Dashboard explores manufacturing costs, production volumes, lead times, and product defect rates to identify areas for operational improvement.
+### 1. Executive Supply Chain Dashboard
 
-Supply_Chain_Analysis/Dashboards_Screenshots/Operation and Quality Performance.png
+Provides an overview of supply chain KPIs, revenue, product performance, and quality indicators.
 
-3. Risk & Margin Analysis:
-      Risk & Margin Analysis examines product-level unit margins, negative-margin products, and potential supply chain risks.
+![Executive Supply Chain Dashboard](Dashboards_Screenshots/Supply%20Chain%20Analytics.png)
 
-Supply_Chain_Analysis/Dashboards_Screenshots/Risk and Margin Analysis.png
+### 2. Operations & Quality Performance Dashboard
 
-Key Findings:
+Analyzes manufacturing costs, production volumes, lead times, and product defect rates.
+
+![Operations and Quality Dashboard](Dashboards_Screenshots/Operation%20and%20Quality%20Performance.png)
+
+### 3. Risk & Margin Analysis
+
+Highlights negative-margin products, product-level risks, and unit margin analysis.
+
+![Risk and Margin Analysis](Dashboards_Screenshots/Risk%20and%20Margin%20Analysis.png)
+
+
+### Key Findings:
 Based on the supplied dataset of 100 product records:
 - 44 products have negative unit margins.
 - The average unit margin is approximately 2.20 in the dataset's monetary units.
 
-Margin Calculation:
-            Unit Margin = Product Price − Manufacturing Cost
-    This measure represents the difference between price and manufacturing cost. It excludes shipping, transportation, and other operating expenses and should not be interpreted as net profit.
+### Margin Calculation:
+#####             Unit Margin = Product Price − Manufacturing Cost 
+This measure represents the difference between price and manufacturing cost. It excludes shipping, transportation, and other operating expenses and should not be interpreted as net profit.
 
-Business Recommendations:
+### Business Recommendations:
 1. Review negative-margin products    : Investigate pricing, manufacturing costs, and product-level cost assumptions.
 2. Evaluate transportation expenses   : Examine high-cost routes, carriers, and transportation modes.
 3. Improve inventory planning         : Review stock levels alongside product demand and sales performance.
@@ -52,13 +60,13 @@ Business Recommendations:
 
 These are recommended areas for further investigation, not claims that a particular intervention has already improved performance.
 
-Project Limitations:
+### Project Limitations:
 - Findings are based on the supplied dataset and its recorded values.
 - Unit margin does not account for every cost associated with selling a product.
 - Revenue inconsistencies should be investigated before making broader profitability claims.
 - Recommendations require further business validation before implementation.
 
-Skills Demonstrated:
+### Skills Demonstrated:
 - Data analysis and interpretation
 - SQL querying
 - Power BI dashboard development
@@ -66,10 +74,10 @@ Skills Demonstrated:
 - Cost and margin analysis
 - Translating data findings into business recommendations
 
-Author
+### Author
 Aspiring Data Analyst
 
-Skills: SQL | Power BI | Excel | Python | Data Analysis
+### Skills: SQL | Power BI | Excel | Python | Data Analysis
 
 
 
