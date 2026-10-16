@@ -27,20 +27,19 @@ This project uses supply chain data to explore operational efficiency, manufactu
 
 Provides an overview of supply chain KPIs, revenue, product performance, and quality indicators.
 
-![Supply Chain Analytics Dashboard](Supply_Chain_Analysis/Dashboards_Screenshots/Supply Chain Analytics.png)
+![Executive Supply Chain Dashboard](Supply_Chain_Analysis/Dashboards_Screenshots/Supply%20Chain%20Analytics.png)
 
 ### 2. Operations & Quality Performance Dashboard
 
 Analyzes manufacturing costs, production volumes, lead times, and product defect rates.
 
-![Operations and Quality Dashboard](Dashboards_Screenshots/Operation%20and%20Quality%20Performance.png)
+![Operations and Quality Performance](Supply_Chain_Analysis/Dashboards_Screenshots/Operation%20and%20Quality%20Performance.png)
 
 ### 3. Risk & Margin Analysis
 
 Highlights negative-margin products, product-level risks, and unit margin analysis.
 
-![Risk and Margin Analysis](Dashboards_Screenshots/Risk%20and%20Margin%20Analysis.png)
-
+![Risk and Margin Analysis](Supply_Chain_Analysis/Dashboards_Screenshots/Risk%20and%20Margin%20Analysis.png)
 
 ### Key Findings:
 Based on the supplied dataset of 100 product records:
